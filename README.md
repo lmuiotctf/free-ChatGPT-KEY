@@ -1,5 +1,5 @@
 # free-ChatGPT-KEY
-🆓免费的 ChatGPT KEY，持续更新。🆓 Free ChatGPT KET, constantly updated.
+🆓免费的 ChatGPT KEY，持续更新。🆓 Free ChatGPT KEY, constantly updated.
 
 ## 📖 列表
 
