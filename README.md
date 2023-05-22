@@ -5,13 +5,11 @@
 
 > 注
 >
-> - 排名不分先后
->
 > - [ 🆓 ] 目前可用
 >
 > - [ 🌎 ] 支持API4.0
 
-### 目前可用且支持API4.0
+### 目前可用且支持API4.0 2023/05/22
 
 - [ 🆓🌎 ] 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
 - [ 🆓🌎 ] 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
